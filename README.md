@@ -1,10 +1,7 @@
 # server-management
 A simple ticket bot which I use to manage my service server.
 
-<h3>
-  Instructions:
-</h3>
-<p>
+#Instructions:
   -> Make an .env file and insert the following:
     --> TOKEN: The discord bot application token.
     --> M_URL: MongoDB URL
@@ -18,4 +15,3 @@ A simple ticket bot which I use to manage my service server.
     --> ticketcat_id: The category where all the ticket channels will be stored.
     --> review_id: The channel where all the reviews will be going.
     <b>DO NOT EDIT THE cogs VARIABLE IF YOU DON'T KNOW WHAT YOU ARE DOING!</b>
-</p>
