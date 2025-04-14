@@ -2,7 +2,7 @@
 A simple ticket bot which I use to manage my service server.
 
 # Instructions:
-Make an .env file and insert the following:
+Make an .env file and insert the following:<br></br>
 TOKEN: The discord bot application token.
 M_URL: MongoDB URL
 For e.g:
