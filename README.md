@@ -6,9 +6,9 @@ Make an .env file and insert the following:
 TOKEN: The discord bot application token.
 M_URL: MongoDB URL
 For e.g:
-
 TOKEN = "abcdefghijk"
 M_URL = "mongodb://localhost:27017"
+
 -> In the config file, change the following:
 --> owner_id: Server owner user ID.
 --> ticketcat_id: The category where all the ticket channels will be stored.
